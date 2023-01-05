@@ -1,0 +1,14 @@
+https://code.visualstudio.com/ > Install
+https://nodejs.org/en/ > Install
+https://git-scm.com/downloads > Install
+https://github.com/ > Signup
+
+Add to VsCode
+ vscode-icons
+ SpellCheck
+ TabNine
+ GitHistory
+ Git lens
+
+// Add to chorme
+ https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh
